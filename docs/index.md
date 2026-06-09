@@ -1,4 +1,4 @@
-# Welcome to MkDocs
+# Shawn is a SIGMA BOY!
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
